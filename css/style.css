@@ -44,7 +44,7 @@ p {
 
 .primary-link {
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 15px 10px;
   text-decoration: none;
   text-transform: capitalize;
   background: var(--primary-color);
